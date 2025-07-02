@@ -5,7 +5,7 @@
 > insert a new interval and merge all necessary overlaps to maintain the list as non-overlapping and sorted.
 
 ## How to run
-> run the batch file named "build" in the project folder if on windows
+> run the batch file named "build" in the project folder if on windows,
 > exe will be named test.exe
 
 ## Extra Details
